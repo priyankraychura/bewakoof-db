@@ -1,5 +1,125 @@
 {
-    "users": [],
-    "products": [],
-    "cart": []
+  "users": [],
+  "products": [
+    {
+      "id": "c53a",
+      "title": "OFFICIAL HARRY POTTER MERCHANDISE",
+      "price": "1249",
+      "discount": "44",
+      "desc": "Men's Black Dementors Graphic Printed Oversized T-shirt",
+      "brand": "bewakoof®",
+      "design": "graphic print",
+      "sleeve": "half sleeve",
+      "neck": "round neck",
+      "type": "t-shirt",
+      "fit": "oversized fit",
+      "occasion": "casual wear",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "https://images.bewakoof.com/t96/men-s-black-dementors-graphic-printed-oversized-t-shirt-589145-1736506915-1.gif",
+        "https://images.bewakoof.com/original/men-s-black-dementors-graphic-printed-oversized-t-shirt-589145-1683016306-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-dementors-graphic-printed-oversized-t-shirt-589145-1683016312-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-dementors-graphic-printed-oversized-t-shirt-589145-1683016322-6.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-dementors-graphic-printed-oversized-t-shirt-589145-1708957278-8.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-dementors-graphic-printed-oversized-t-shirt-589145-1734587741-10.jpg"
+      ],
+      "reviews": [
+        ""
+      ],
+      "rating": 0,
+      "quantity": "100",
+      "category": "men"
+    },
+    {
+      "id": "4487",
+      "title": "OFFICIAL MARVEL MERCHANDISE",
+      "price": "2099",
+      "discount": "57",
+      "desc": "Men's Green Loki Graphic Printed Oversized T-shirt",
+      "brand": "bewakoof®",
+      "design": "graphic print",
+      "sleeve": "half sleeve",
+      "neck": "round neck",
+      "type": "t-shirt",
+      "fit": "oversized fit",
+      "occasion": "casual wear",
+      "sizes": [
+        "S",
+        "M",
+        "XL",
+        "L",
+        "2XL"
+      ],
+      "colors": [
+        "green"
+      ],
+      "images": [
+        "https://images.bewakoof.com/t96/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1735645159-1.jpg",
+        "https://images.bewakoof.com/original/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1730183590-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1730183594-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1730183599-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1730183603-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1730183607-6.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1730183611-7.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1730183616-8.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-loki-graphic-printed-oversized-t-shirt-652469-1738041007-10.jpg"
+      ],
+      "reviews": [
+        ""
+      ],
+      "rating": 0,
+      "quantity": "100",
+      "category": "men"
+    },
+    {
+      "id": "6f8d",
+      "title": "Bewakoof®",
+      "price": "2499",
+      "discount": "40",
+      "desc": "Men's Rust Orange Checked Oversized Shirt",
+      "brand": "bewakoof®",
+      "design": "checked",
+      "sleeve": "full sleeve",
+      "neck": "Collar",
+      "type": "shirts",
+      "fit": "oversized fit",
+      "occasion": "casual wear",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "colors": [
+        "brown"
+      ],
+      "images": [
+        "https://images.bewakoof.com/t96/men-s-rust-orange-checked-oversized-shirt-646373-1734610461-1.jpg",
+        "https://images.bewakoof.com/original/men-s-rust-orange-checked-oversized-shirt-646373-1734610465-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-rust-orange-checked-oversized-shirt-646373-1734610470-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-rust-orange-checked-oversized-shirt-646373-1734610474-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-rust-orange-checked-oversized-shirt-646373-1734610478-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-rust-orange-checked-oversized-shirt-646373-1734610482-6.jpg"
+      ],
+      "reviews": [
+        ""
+      ],
+      "rating": 0,
+      "quantity": "200",
+      "category": "men",
+      "subcategory": "shirts"
+    }
+  ],
+  "cart": []
 }
